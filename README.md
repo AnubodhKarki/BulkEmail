@@ -1,29 +1,5 @@
 # BulkEmail
-Step 1:
-A. Install Python 3.9.0 in your system:
-https://docs.python.org/3/using/windows.html
-
-B. Setup of Idle:
-https://docs.python.org/3/library/idle.html
-
-Step 2: 
-2.1 Open terminal by pressing windows+r
-2.2 Type cmd. Hit enter.
-
-A. Run "python3 -m pip install smtplib" in the terminal. (without quotation).
-B. Run "pip install openpyxl" in ther terminal.
-B. Allow access to the program via this link(you should be logged in, in your browser):
-https://www.google.com/settings/security/lesssecureapps
-
-Step 3:
-A. Get you Emails and name ready as descripted in EmailTest.xlsx (Excel file). or as in Step 3.B.
-B. A1...A5 cells = emails AND B1...B5 cells= Names (A1 email = B1 name)
-
-Step 4:
-A. Open source code via IDLE
-B. Edit your email subject and content as descripted in Bulk email guide.png
-C. Hit F5(Program run)
-D. Bulk email should be delivered.
-
-XX. Extension alternative (Havent checked, but good reviews): 
-https://chrome.google.com/webstore/detail/gmass-powerful-mail-merge/ehomdgjhgmbidokdgicgmdiedadncbgf?utm_source=gmail
+1. Bulk Gmail: Step by step guide to setup environment and run this program
+2. Bulk email guide: Pictorial representation to edit content for email in the program
+3. Python program for sending bulk email.
+4. Excel file for Recipient Email and names list.
